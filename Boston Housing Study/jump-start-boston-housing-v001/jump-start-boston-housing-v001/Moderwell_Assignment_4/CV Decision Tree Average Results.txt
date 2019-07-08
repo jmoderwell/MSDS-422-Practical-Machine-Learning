@@ -1,0 +1,7 @@
+
+Average results from 10-fold cross-validation
+
+Model            Root mean-squared error (RMSE)DecisionTreeRegressor        0.60855
+RandomForestRegressor        0.47454
+GradientBoostingRegressor    0.42166
+dtype: float64

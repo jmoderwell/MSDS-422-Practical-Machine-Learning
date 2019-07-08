@@ -1,0 +1,27 @@
+
+Cross-validation results:
+   Linear_Regression  Lasso_Regression  ElasticNet_Regression  \
+0            0.30803           0.30674                0.30395   
+1            0.41489           0.41292                0.33324   
+2            0.43894           0.43600                0.31153   
+3            0.65224           0.65320                0.81738   
+4            0.62178           0.62040                0.61959   
+5            0.49601           0.49576                0.71579   
+6            0.34383           0.34148                0.40927   
+7            1.34083           1.33966                1.30838   
+8            0.66970           0.66924                0.74879   
+9            0.33314           0.32972                0.30591   
+
+   Ridge_Regression  
+0           0.30119  
+1           0.33474  
+2           0.32074  
+3           0.77802  
+4           0.57983  
+5           0.63518  
+6           0.39898  
+7           1.32262  
+8           0.70834  
+9           0.30119  
+Cross validation results column names:
+['Linear_Regression', 'Lasso_Regression', 'ElasticNet_Regression', 'Ridge_Regression']

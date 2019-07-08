@@ -1,0 +1,15 @@
+
+Cross-validation results:
+   DecisionTreeRegressor  RandomForestRegressor  GradientBoostingRegressor
+0                0.39129                0.38319                    0.28281
+1                0.26179                0.23914                    0.27071
+2                0.37984                0.24955                    0.34206
+3                0.76846                0.51854                    0.41231
+4                0.55443                0.39108                    0.41340
+5                0.76773                0.54987                    0.43811
+6                0.35863                0.34031                    0.34098
+7                1.07628                1.04056                    0.95985
+8                1.08936                0.62308                    0.40380
+9                0.43771                0.41005                    0.35258
+Cross validation results column names:
+['DecisionTreeRegressor', 'RandomForestRegressor', 'GradientBoostingRegressor']

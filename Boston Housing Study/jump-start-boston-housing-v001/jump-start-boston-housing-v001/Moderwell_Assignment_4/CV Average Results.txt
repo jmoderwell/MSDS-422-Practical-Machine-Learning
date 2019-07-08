@@ -1,0 +1,8 @@
+
+Average results from 10-fold cross-validation
+
+Model            Root mean-squared error (RMSE)Linear_Regression        0.56194
+Lasso_Regression         0.56051
+ElasticNet_Regression    0.58738
+Ridge_Regression         0.56808
+dtype: float64
